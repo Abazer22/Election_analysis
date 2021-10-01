@@ -37,8 +37,8 @@ The candidate summary results below:
 The winner of the election was:
 
 
+![the election winner](https://user-images.githubusercontent.com/90945875/135690612-dbe47692-2648-429f-9e4f-a7b185b6cdb1.png)
 
-Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
 
 Challenge Overview
 Seth, a Colorado Board of Elections employee, requested your help in completing an election audit of a recent local congressional election.
