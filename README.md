@@ -5,18 +5,20 @@ A Colorado Board of Elections employee requested your help in completing an elec
 2. Calculate the percentage of votes each candidate received. 
 3. Determine the winner of the election based on popular vote. 
 4. Calculate the total number of votes. 
-5- Get the total number of votes each county received. 
-6- The percentage of votes each county received.
-7- the Largest County Turnout
+5. Get the total number of votes each county received. 
+6. The percentage of votes each county received.
+7. The Largest County Turnout
 
-* There were 369,711 votes cast in the election.
-* There were three county:
+There were 369,711 votes cast in the election.
+
+There were three counties:
 * Jefferson
 * Denver
 * Arapahoe
-The county summery result in the picture below:
 
-* There were three candidate
+ The counties Summary Result in the picture below:
+
+There were three candidate
 * Charles Casper Stockham
 * Diana DeGette
 * Raymon Anthony Doane
