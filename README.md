@@ -16,7 +16,7 @@ There were three counties:
 * Denver
 * Arapahoe
 
- The counties Summary Result in the picture below:
+ The counties Summary Result below:
 
 
 ![county summry result](https://user-images.githubusercontent.com/90945875/135687971-a954c963-2a83-48ca-9e5d-68dd68956c33.png)
@@ -26,15 +26,17 @@ There were three candidate
 * Diana DeGette
 * Raymon Anthony Doane
 
-The candidate results were:
+The candidate summary results below:
 
-Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
 
-Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+![canidate summary result](https://user-images.githubusercontent.com/90945875/135689996-5a040227-364e-4e8a-9e9f-4da8b6a4e8cf.png)
 
-Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+
+
 
 The winner of the election was:
+
+
 
 Diana DeGette, who received 272,892 number of votes, 73.8% of the total votes cast in the election.
 
