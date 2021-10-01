@@ -1,7 +1,6 @@
 # Election_analysis
 A Colorado Board of Elections employee requested your help in completing an election audit of a recent local congressional election. The following tasks are to be included in the completed election audit.
 # Project overniew
-
 1. Get the total number of votes each candidate received. 
 2. Calculate the percentage of votes each candidate received. 
 3. Determine the winner of the election based on popular vote. 
@@ -10,18 +9,22 @@ A Colorado Board of Elections employee requested your help in completing an elec
 6- The percentage of votes each county received.
 7- the Largest County Turnout
 
-There were 369,711 votes cast in the election.
+* There were 369,711 votes cast in the election.
+* There were three county:
+* Jefferson
+* Denver
+* Arapahoe
+The county summery result in the picture below:
 
 
 
 
 
+* There were three candidate
+* Charles Casper Stockham
+* Diana DeGette
+* Raymon Anthony Doane
 
-The candidates were:
-
-Charles Casper Stockham
-Diana DeGette
-Raymon Anthony Doane
 The candidate results were:
 
 Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
