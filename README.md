@@ -16,10 +16,6 @@ A Colorado Board of Elections employee requested your help in completing an elec
 * Arapahoe
 The county summery result in the picture below:
 
-
-
-
-
 * There were three candidate
 * Charles Casper Stockham
 * Diana DeGette
