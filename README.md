@@ -18,6 +18,9 @@ There were three counties:
 
  The counties Summary Result in the picture below:
 
+
+![county summry result](https://user-images.githubusercontent.com/90945875/135687971-a954c963-2a83-48ca-9e5d-68dd68956c33.png)
+
 There were three candidate
 * Charles Casper Stockham
 * Diana DeGette
