@@ -1,6 +1,6 @@
 # Election_analysis
 A Colorado Board of Elections employee requested your help in completing an election audit of a recent local congressional election. The following tasks are to be included in the completed election audit.
-# Project overniew
+# Project overview
 1. Get the total number of votes each candidate received. 
 2. Calculate the percentage of votes each candidate received. 
 3. Determine the winner of the election based on popular vote. 
@@ -40,24 +40,20 @@ The winner of the election was:
 ![the election winner](https://user-images.githubusercontent.com/90945875/135690612-dbe47692-2648-429f-9e4f-a7b185b6cdb1.png)
 
 
-Challenge Overview
-Seth, a Colorado Board of Elections employee, requested your help in completing an election audit of a recent local congressional election.
+# Challenge Overview
+A Colorado Board of Elections employee, requested your help in completing an election audit of a recent local congressional election.
 
 You provided Seth and his team with the findings of the following tasks in your first draft of the election audit:
+1. Get the total number of votes each candidate received. 
+2. Calculate the percentage of votes each candidate received. 
+3. Determine the winner of the election based on popular vote. 
+4. Calculate the total number of votes. 
+5. Get the total number of votes each county received. 
+6. The percentage of votes each county received.
+7. The Largest County Turnout
 
-1. Calculate the total number of votes cast. 
-2. Get a complete list of candidates who received votes. 
-3. Calculate the total number of votes each candidate received. 
-4. Calculate the percentage of votes each candidate won. 
-5. Determine the winner of the election based on popular vote.
-Although these outcomes are important, there are a few more key insights his team would like to review. The election commission of Seth's team asked if he could confirm the voter turnout for each county that voted in this congressional district.
 
-The findings of the following tasks were added to the final election audit:
 
-1. Calculate the voter turnout for each county.
-2. Calculate the percentage of votes each county contributed to the election.
-3. Determine which county had the largest turnout.
-Challenge Summary
 Election Results
 Total Votes: 369,711
 
