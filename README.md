@@ -34,7 +34,7 @@ A Colorado Board of Elections employee requested your help in completing an elec
 
 
 
-The winner of the election was:
+### The winner of the election was:
 
 
 ![the election winner](https://user-images.githubusercontent.com/90945875/135690612-dbe47692-2648-429f-9e4f-a7b185b6cdb1.png)
