@@ -9,24 +9,24 @@ A Colorado Board of Elections employee requested your help in completing an elec
 6. The percentage of votes each county received.
 7. The Largest County Turnout
 
-There were 369,711 votes cast in the election.
+## There were 369,711 votes cast in the election.
 
-There were three counties:
+## There were three counties:
 * Jefferson
 * Denver
 * Arapahoe
 
- The counties Summary Result below:
+ ### The counties Summary Result below:
 
 
 ![county summry result](https://user-images.githubusercontent.com/90945875/135687971-a954c963-2a83-48ca-9e5d-68dd68956c33.png)
 
-There were three candidate
+## There were three candidates
 * Charles Casper Stockham
 * Diana DeGette
 * Raymon Anthony Doane
 
-The candidate summary results below:
+### The candidate summary results below:
 
 
 ![canidate summary result](https://user-images.githubusercontent.com/90945875/135689996-5a040227-364e-4e8a-9e9f-4da8b6a4e8cf.png)
